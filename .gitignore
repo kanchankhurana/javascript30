@@ -6,5 +6,4 @@ server.js
 *.sass-cache*
 /.tmp
 *.DS_Store
-*.css
 *.map
